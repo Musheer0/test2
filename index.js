@@ -1,11 +1,5 @@
 
-//Show Hide Function Global use
-function show(obj){
 
-}
-function hide(obj){
-
-}
 // ModelX
 const purchase = document.getElementById("purchase")
 const modelx_box = document.getElementById("mx-box");
