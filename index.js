@@ -1,5 +1,4 @@
 
-
 // ModelX
 const purchase = document.getElementById("purchase")
 const modelx_box = document.getElementById("mx-box");
